@@ -16,7 +16,7 @@
 
 ### My Contribution Streak 🚀🚀
 <pre>
-  <a href="https://github.com/Ajay-056/github-readme-streak-stats">
+  <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=manismk#version3"/>
   </a>
 </pre>
