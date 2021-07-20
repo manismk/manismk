@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning Html,css,JS
-- 💬 Ask me at <a  href="https://twitter.com/_manismk"  target="_blank">twitter</a> 
+- 💬 Connect with me at <a  href="https://twitter.com/_manismk"  target="_blank">twitter</a> 
 
 ### My Stats 🚀🚀
 <pre>
