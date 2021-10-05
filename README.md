@@ -17,9 +17,9 @@
 
 ### My Contribution Streak 🚀🚀
 <pre>
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manismk#version3"/>
-  </a>
+  
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manismk"/>
+  
 </pre>
 
 [twitter]: https://twitter.com/balaajay19
