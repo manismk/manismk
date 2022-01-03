@@ -1,7 +1,8 @@
 ### Hello!👋 I 'm Manikandan 
 
 
-- 🌱 I’m currently learning Html,css,JS
+- Student - [@neog](https://twitter.com/neogcamp)
+- 🌱 I’m currently front end development
 - [Portfolio](https://manikandan.netlify.app/)
 - 💬 Connect with me at <a  href="https://twitter.com/_manismk"  target="_blank">twitter</a> 
 
