@@ -1,7 +1,7 @@
 # 💫About Me :
-🔭 I’m currently working on cognizant.
-🌱 I’m currently learning about Front end development [@neog](https://neog.camp/).
-📫 How to reach me: Twitter - [@_manismk](https://twitter.com/_manismk).
+- 🔭 I’m currently working on cognizant.
+- 🌱 I’m currently learning about Front end development [@neog](https://neog.camp/).
+- 📫 How to reach me: Twitter - [@_manismk](https://twitter.com/_manismk).
 
 
 
