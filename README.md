@@ -3,7 +3,7 @@
 
 
 # 💫About Me :
-- 🔭 I’m currently working on cognizant.
+- 🔭 I’m currently working as Software Engineer(Frontend)  [@Kula](https://www.kula.ai/).
 - 🌱 I’m currently learning about Front end development [@neog](https://neog.camp/).
 - 📫 How to reach me: Twitter - [@_manismk](https://twitter.com/_manismk).
 
