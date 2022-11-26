@@ -4,7 +4,7 @@
 
 # 💫About Me :
 - 🔭 I’m currently working as Software Engineer(Frontend) [@Kula](https://www.kula.ai/).
-- 📝 I'm currently exploring Next.js
+- 📝 I'm currently exploring Node.js,Exprees,Mango DB.
 - 🌱 [neograd'22](https://neog.camp/).
 - 📫 How to reach me: Twitter - [@_manismk](https://twitter.com/_manismk).
 
