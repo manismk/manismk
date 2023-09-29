@@ -1,5 +1,5 @@
 
-## Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="25"> ,I'm [Manikandan](https://manikandan.netlify.app/) !
+## Hi, I'm [Manikandan](https://manikandan.netlify.app/)
 
 
 # 💫About Me :
