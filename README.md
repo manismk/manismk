@@ -1,5 +1,4 @@
-
-## Hi, I'm [Manikandan](https://manikandan.netlify.app/)
+## Hi 👋, I'm [Manikandan](https://manikandan.netlify.app/)
 
 
 # 💫About Me :
